@@ -1,0 +1,29 @@
+.green {
+	background-color:green;
+}
+
+.yellow {
+	background-color:yellow;
+}
+
+.red {
+	background-color:red;
+}
+
+table {
+	width:100%;
+	border: 2px solid black;
+}
+
+th, td {
+	
+	border: 1px solid black;
+}
+
+tr:nth-child(even) {
+	background-color:grey;
+}
+
+img {
+	max-width: 200px;
+}
